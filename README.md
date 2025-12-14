@@ -1,5 +1,4 @@
-# BoltX-KernelSU-Next
-# BoltXOfficial GKI Kernel ⚡️
+# BoltX-KernelSU-Next⚡️
 
 Custom GKI kernel focused on hidden root, stability, and compatibility.
 
