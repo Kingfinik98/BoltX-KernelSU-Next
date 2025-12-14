@@ -2,6 +2,7 @@ BoltX-KernelSU-Next
 Changelog :
 ----------------------------------
 • Linux 5.10.247 update
+• kernelSU Next : v3.0.0
 •  Hook  : Kprobes
 • Random reboot fix
 • Flicker fix (Garnet)
